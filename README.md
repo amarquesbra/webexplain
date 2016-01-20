@@ -6,4 +6,5 @@ Useful for when you do not have a [php] myadmin available.
 Including access via mobile.
 
 Bank assisted data
-MySQL
+
+.MySQL
